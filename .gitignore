@@ -1,0 +1,7 @@
+*.o
+*.out
+*.a
+*.so
+*.log
+*.tmp
+SUDOKU/
